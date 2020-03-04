@@ -1,2 +1,2 @@
 # CRUD
-Es libre de cpiar 
+Es libre de copiar 
